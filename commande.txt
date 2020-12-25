@@ -1,1 +1,0 @@
-python3 dic_v/dic_v.py -c dic_v/phrases/ -pr dic_v/prep_s_tw_hk.txt -po dic_v/post_s_tw_hk.txt -t 0.055
