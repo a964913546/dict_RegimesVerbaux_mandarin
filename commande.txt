@@ -1,0 +1,1 @@
+python3 dict_rv_m-main/dic_v.py -c dict_rv_m-main/phrases/ -pr dict_rv_m-main/prep_s_tw_hk.txt -po dict_rv_m-main/post_s_tw_hk.txt -t 0.055
